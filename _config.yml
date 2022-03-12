@@ -1,0 +1,8 @@
+url: https://justgetwet.github.io
+baseurl: /pages
+lang: ja-JP
+title: Github Pages
+description: Note to Self about Environment Setting
+
+plugins:
+  - jemoji
